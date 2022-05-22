@@ -1,0 +1,76 @@
+{
+  "cikkek_cim": [
+    {
+      "id": "bevezeto",
+      "kep1": "FTH_cikkek/teknos.jpg",
+      "foCim1": "A Fenntarthatósági Témahét",
+      "szerzo": "szerző: SZÁMALK-Szalézi Technikum és Szakgimnázium"
+    },
+    {
+      "id": "szandi",
+      "kep1": "FTH_cikkek/hulladek_mentes_vasarlas/adagoló2.jpg",
+        "foCim1": "Hulladék mentes vásárlás",
+        "szerzo": "szerző: Karányi Alexandra Viktória"
+    },
+    {
+      "id": "vzs",
+      "kep1": "FTH_cikkek/zold_marketing/zm5.jpg",
+        "foCim1": "A ZÖLD MARKETING",
+        "szerzo": "szerző: Vigh Zsófia"
+    },
+    {
+      "id": "dori",
+      "kep1": "FTH_cikkek/fenntarthatosagi_alternatívak/hands-4091879_960_720.jpg",
+      "foCim1": "PLUSZ érdekességek, alternatívák, lépések a hulladékmentes(ebb) jövőnk felé.",
+      "szerzo": "szerző: Pipics Dorottya"
+
+    },
+    {
+      "id": "mesi",
+      "kep1": "FTH_cikkek/fenntarthato_divat/kep5.jpg",
+      "foCim1": "Fenntartható Divat-Hol vásároljak?",
+      "szerzo": "szerző: Tuli Emese Boglárka"
+
+    },
+    {
+      "id": "greti",
+      "kep1": "FTH_cikkek/teszedd/kep1.jpg",
+      "foCim1": "Mi az a TeSzedd!?",
+      "szerzo": "szerző: Kovács Gréta"
+    },
+    {
+      "id": "betti",
+      "kep1": "FTH_cikkek/fenntarthatosag_az_iskolaban/kép1.jpg",
+      "foCim1": "A fenntarthatóság problémái és céljai",
+      "szerzo": "szerző: Bolla Bettina Réka"
+
+    },
+    {
+      "id": "tori",
+      "kep1": "FTH_cikkek/fenntarthatosag_a_színhazban/1.png",      
+      "foCim1": "Fenntarthatóság a színházban",
+      "szerzo": "szerző: PItyer Viktória Krisztina"
+    },
+    {
+      "id": "baresz",
+      "kep1": "FTH_cikkek/a_fenntarthatosag_fogalmai/kép1.jpg",
+        "foCim1": "De mit is jelent valójában a kifejezés és miért fontos, hogy foglalkozzunk vele?",
+        "szerzo": "szerző: Oláh Barbara"
+
+      
+    },
+    {
+      "id": "vera1",
+      "kep1": "FTH_cikkek/az_energiank_20-a_szeleromovekbol_fog_erkezni/kep1.jpg",
+      "foCim1": "Az energiánk 20%-a szélerőművekből fog érkezni",
+      "szerzo": "szerző: Zachar Veronika"
+    },
+    {
+      "id": "vera2",
+      "kep1": "FTH_cikkek/oceanok_mi_a_szerepük_az_eletben,_hogyan_ovjuk_oket/kep2.jpg",
+      "foCim1": "Óceánok: mi a szerepük az életben, hogyan óvjuk őket?",
+      "szerzo": "szerző: Zachar Veronika"
+
+    }
+  ]
+}
