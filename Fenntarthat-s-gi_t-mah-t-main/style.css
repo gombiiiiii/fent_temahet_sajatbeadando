@@ -33,7 +33,7 @@ main{
 }
 header{
     grid-area:h;
-    background: url(./galéria/teknos.jpg);
+    background: url(./galeria/teknos.jpg);
     background-repeat:no-repeat;
     height: 500px;
     background-position: 50% 50%;
@@ -188,7 +188,13 @@ footer{
   }
   /* Create two equal columns that sits next to each other */
   div.column {
-    /*-ms-flex: 45%; /* IE 10 */
+    /*
+    
+    a div.column elemeket kéne egymás mellé tenni. ezeket bele kell tenni egy szülőelembe.
+    És a szülőelem lesz a tároló container.
+    Tehát a szülőelemre kell kiadnod a display:flex; flex-wrap:wrap;  parancsokat. és a div.column elemekre pedig a flex: 0 0 30%;
+    
+    */
     /*flex: 45%;*/
     
     max-height: 420px;
